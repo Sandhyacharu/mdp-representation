@@ -33,11 +33,25 @@ Left
 ![image](https://github.com/Sandhyacharu/mdp-representation/assets/75235167/3e686e89-65cc-4d25-81bb-a0eefc94ba7c)
 
 ## PYTHON REPRESENTATION:
-Write your code here
-
+```python3
+P = {
+    0:{
+        0: [(1.0,0,0.0,True)],
+        1: [(1.0,0,0.0,True)]
+    },
+    1:{
+        0: [(1.0,0,0.0,True)],
+        1: [(1.0,2,1.0,True)]
+    },
+    2:{
+        0: [(1.0,2,0.0,True)],
+        1: [(1.0,2,0.0,True)]
+    }
+}
+```
 ## OUTPUT:
-Write your Python output here
+![image](https://github.com/Sandhyacharu/mdp-representation/assets/75235167/2c94eeb9-7731-4901-b5a4-c78a27ff4c19)
 
 ## RESULT:
-Write your output here
+Thus, an environment to check whether the child plays or stay at home is created according to the weather conditions.
 
