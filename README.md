@@ -1,4 +1,4 @@
-### EX NO: 06
+### EX NO: 01
 ### DATE:
 # <p align="center">MDP REPRESENTATION</p>
 
@@ -36,6 +36,8 @@ Left
 
 ## PYTHON REPRESENTATION:
 ```python3
+# Developed by: Sandhya Charu N
+# Register Number: 212220230041
 P = {
     0:{
         0: [(1.0,0,0.0,True)],
