@@ -1,4 +1,6 @@
-# MDP REPRESENTATION
+### EX NO: 06
+### DATE:
+# <p align="center">MDP REPRESENTATION</p>
 
 ## AIM:
 To represent a Markov Decision Process(MDP) problem in the following ways.
